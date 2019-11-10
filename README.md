@@ -13,7 +13,7 @@ It covers:
 - ask google (I do this about 100 times per day)
 - Look on YouTube for tutorials 
 - Book office hours by logging into our webapp for help if you get really stuck
-- Come along to one of our hacks
+- Come along to one of our hacks SKEM 164 every Sunday
 
 ### Recommendations
 - Use Linux instead of Windows or MacOS. It will be a steep learning curve but worth it long term.
