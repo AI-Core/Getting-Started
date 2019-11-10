@@ -12,7 +12,8 @@ It covers:
 ### Struggling?
 - ask google (I do this about 100 times per day)
 - Look on YouTube for tutorials 
-- [Book office hours] for help if you get really stuck
+- Book office hours by logging into our webapp for help if you get really stuck
+- Come along to one of our hacks
 
 ### Recommendations
 - Use Linux instead of Windows or MacOS. It will be a steep learning curve but worth it long term.
@@ -67,6 +68,6 @@ Check out [this]() video to understand jupyter notebook.
 ### If you can run `import torch` in a jupyter-notebook cell, then you've completed this notebook!
 
 You now might want to check out:
-- basic data science
-- using git and github
-- using the command line interface
+- [basic data science]()
+- [using git and github](https://github.com/life-efficient/Academy-of-AI/blob/master/Git%20and%20GitHub.ipynb)
+- [using the command line interface](https://github.com/life-efficient/Academy-of-AI/blob/master/theCLI.ipynb)
