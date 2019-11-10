@@ -67,9 +67,9 @@ Check out [this](https://www.youtube.com/watch?v=jZ952vChhuI) video to understan
 
 ### If you can run `import torch` in a jupyter-notebook cell, then you've completed the setup! 
 
-### Run through the intro-to-python.ipynb notebook by downloading this repo, running `jupyter-notebook` in your terminal and then navigating to where it is located and opening it. 
+### Run through the [intro-to-python.ipynb](https://github.com/AI-core/basic-python) by downloading that repo, running `jupyter-notebook` in your terminal and then navigating to where it is located and opening it. 
 
-### If you're alreeady familiar with python then move on and check out:
+### If you're already familiar with python then move on and check out:
 - [basic data science](https://github.com/AI-core/basic-data-science/blob/master/README.md)
 - [using git and github](https://github.com/life-efficient/Academy-of-AI/blob/master/Git%20and%20GitHub.ipynb)
 - [using the command line interface](https://github.com/life-efficient/Academy-of-AI/blob/master/theCLI.ipynb)
