@@ -65,9 +65,11 @@ Run `sudo apt install jupyter-notebook` in your terminal. Now run `jupyter-noteb
 
 Check out [this](https://www.youtube.com/watch?v=jZ952vChhuI) video to understand jupyter notebook.
 
-### If you can run `import torch` in a jupyter-notebook cell, then you've completed this notebook!
+### If you can run `import torch` in a jupyter-notebook cell, then you've completed the setup! 
 
-You now might want to check out:
+### Run through the intro-to-python.ipynb notebook by downloading this repo, running `jupyter-notebook` in your terminal and then navigating to where it is located and opening it. 
+
+### If you're alreeady familiar with python then move on and check out:
 - [basic data science](https://github.com/AI-core/basic-data-science/blob/master/README.md)
 - [using git and github](https://github.com/life-efficient/Academy-of-AI/blob/master/Git%20and%20GitHub.ipynb)
 - [using the command line interface](https://github.com/life-efficient/Academy-of-AI/blob/master/theCLI.ipynb)
