@@ -14,6 +14,7 @@ You should move on once you can successfully run the final notebook. If you don'
 1. 
 
 3. Setting up PyTorch
+
 Go [here](https://pytorch.org/get-started/locally/)
 
 You now might want to check out:
