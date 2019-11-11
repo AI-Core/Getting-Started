@@ -12,7 +12,7 @@ It covers:
 ### Struggling?
 - ask google (I do this about 100 times per day)
 - Look on YouTube for tutorials 
-- Book office hours by logging into our webapp for help if you get really stuck
+- [Book office hours](https://meetings.hubspot.com/harryaberg) by logging into our webapp for help if you get really stuck
 - Come along to one of our hacks SKEM 164 every Sunday
 
 ### Recommendations
