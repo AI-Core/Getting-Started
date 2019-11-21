@@ -5,7 +5,7 @@ You should only be here if you are running windows or can't comlete the guide in
 ## Getting ubuntu
 Firstly go [here](https://ubuntu.com/download/desktop) and download the latest version of Ubuntu (an awesome Linux distrbution).
 
-# Download the VM software
+## Download the VM software
 Go [here](https://www.virtualbox.org/wiki/Downloads) and download the appropriate version of VirtualBox based on your operating system.
 
 ## Getting the virtual machine to already have everything we need installed
