@@ -2,6 +2,9 @@
 
 You should only be here if you are running windows or can't comlete the guide in the README.md of this repo.
 
+## What is a VM?
+Vm stands for Virtual Machine. VM software allows you to easily and quickly run most operating systems on top of your current operating system. For example you can run an Ubuntu Linux virtual machine from a device that currently runs Windows.
+
 ## Getting ubuntu
 Firstly go [here](https://ubuntu.com/download/desktop) and download the latest version of Ubuntu (an awesome Linux distrbution).
 
