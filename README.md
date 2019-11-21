@@ -2,7 +2,7 @@
 
 This repo is just to get you ready to move onto more interesting stuff.
 
-IF YOU ARE USING WINDOWS (LOL) follow [this guide]() to set up a virtual machine.
+IF YOU ARE USING WINDOWS (LOL) follow [this guide]() to set up a virtual machine. If you are really struggling on Mac (or god forbid, Linux) then you can also follow this guide.
 
 It covers:
 - Getting started with your terminal (command line interface (CLI))
