@@ -2,6 +2,8 @@
 
 This repo is just to get you ready to move onto more interesting stuff.
 
+IF YOU ARE USING WINDOWS (LOL) follow [this guide]() to set up a virtual machine.
+
 It covers:
 - Getting started with your terminal (command line interface (CLI))
 - Setting up your python package manager (your package manager that allows you to use useful python code that others have written)
@@ -25,8 +27,6 @@ You should move on once you can successfully run `import torch` in a jupyter not
 ## 1. Using the terminal
 The terminal lets you interact with your operating system. You can type in commands to make your computer do pretty much anything. It's not designed to be pretty,  it has no graphical user interface (GUI). It will run a language called [bash](https://github.com/life-efficient/Academy-of-AI/blob/master/theCLI.ipynb). We will use it in the following steps.
 
-### Windows
-
 ### Linux
 Open the terminal by searching for terminal or by **pressing CTRL+ALT+T** (learn this)
 
@@ -41,8 +41,6 @@ We will install pip**3** which is for Python 3, not pip2 which is for Python 2 (
 You can install packages using pip by running `pip install insert_package_name_here`
 
 Type `pip -V` in your terminal and press enter to tell your terminal to let you know what version of pip you have. It should return you a line which tells you which version of Python this is for. If it doesnt say python3.x (where x is any number) then try run `pip3 -V`. You may need to install pip3, so run `sudo apt install pip3` (**sudo means 'super user do' and it executes the command with ALL priveleges. Be careful not to destroy your computer by using it recklessly. When you run it it will ask for your password - but it will not show you the password when it's being typed**)in your terminal and then try run `pip3 -V` again. If `pip3 -V` tells you that it's for Python 3 but `pip2 -V` doesn't, then you will need to install packages with the `pip3` command rather than the `pip` command e.g. `pip3 install insert_package_name_here`. It may be helpful to use an *alias* to map the `pip` command to `pip3`, check out [this](https://github.com/life-efficient/Academy-of-AI/blob/master/theCLI.ipynb) repo to see how to do that.
-
-### Windows
 
 ### MacOS
 [This](https://www.youtube.com/watch?v=W3k8_8ahsyg) guide looks pretty useful
