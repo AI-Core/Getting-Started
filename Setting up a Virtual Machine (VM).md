@@ -9,7 +9,7 @@ Vm stands for Virtual Machine. VM software allows you to easily and quickly run 
 Go [here](https://www.virtualbox.org/wiki/Downloads) and download the appropriate version of VirtualBox based on your operating system.
 
 ## Getting the virtual machine to already have everything we need installed
-Download the `ubuntuVM.ova` file from this repo. PLEASE CHECK BACK SOON ITS FAT AND IS TAKING LONG TO DOWNLOAD.
+Download the `ubuntuVM.ova` file from this [link](https://drive.google.com/open?id=1giG9zenxvxhBGcfw2Lkxll7TiORtvKg_)
 
 ## Starting your VM
 1. Start the VirtualBox software
