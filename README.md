@@ -2,7 +2,7 @@
 
 This repo is just to get you ready to move onto more interesting stuff.
 
-IF YOU ARE USING WINDOWS (LOL) follow [this guide]() to set up a virtual machine. If you are really struggling on Mac (or god forbid, Linux) then you can also follow this guide.
+IF YOU ARE USING WINDOWS (LOL) follow [this guide](https://github.com/AI-core/000-Getting-Started/blob/master/Setting%20up%20a%20Virtual%20Machine%20(VM)) to set up a virtual machine. If you are really struggling on Mac (or god forbid, Linux) then you can also follow this guide.
 
 It covers:
 - Getting started with your terminal (command line interface (CLI))
