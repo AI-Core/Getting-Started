@@ -2,7 +2,7 @@
 
 This repo is just to get you ready to move onto more interesting stuff.
 
-SUPER EASY SETUP WITH A VIRTUAL MACHINE: follow [this guide](https://github.com/AI-core/000-Getting-Started/blob/master/Setting%20up%20a%20Virtual%20Machine%20(VM)) to set up a virtual machine.
+SUPER EASY SETUP WITH A VIRTUAL MACHINE: follow [this guide](https://github.com/AI-Core/Getting-Started/blob/master/Setting%20up%20a%20Virtual%20Machine%20(VM).md) to set up a virtual machine.
 
 If you want to set up your environment without a virtual machine, the follow the steps below.
 
