@@ -1,6 +1,9 @@
 # So you want to set up a VM?
 You should only be here if you are running windows or can't comlete the guide in the README.md of this repo.
 
+Laptop requirements:
+- 24GB free memory to store the virtual operating system
+
 ## What is a VM?
 Vm stands for Virtual Machine. VM software allows you to easily and quickly run most operating systems on top of your current operating system. For example you can run an Ubuntu Linux virtual machine from a device that currently runs Windows.
 
