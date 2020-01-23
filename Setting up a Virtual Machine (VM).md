@@ -33,3 +33,5 @@ Download the Ubuntu Linux *image* `ubuntuVM.ova` file from this [link](https://d
 6. Start your VM by selecting in and then pressing the green arrow in the main panel.
 
 This should open up a window displaying a desktop that you would see if you were running the operating system that is on this virtual machine.
+
+# The password is "password"
