@@ -67,7 +67,7 @@ Note that if you run `python` then your prompt will change (probably from `$` to
 Go to [the PyTorch website](https://pytorch.org/get-started/locally/) and select the relevant options. This will show you a bash command. Copy it and run it in your terminal.
 
 ## 5. Setting up Jupyter Notebook
-Run `sudo apt install jupyter-notebook` in your terminal. Now run `jupyter-notebook` (make an alias maybe).
+Run `sudo pip3 install notebook` in your terminal. Now run `jupyter-notebook` (make an alias maybe).
 
 Check out [this](https://www.youtube.com/watch?v=jZ952vChhuI) video to understand jupyter notebook.
 
