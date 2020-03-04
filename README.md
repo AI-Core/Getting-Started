@@ -2,10 +2,6 @@
 
 This repo is just to get you ready to move onto more interesting stuff.
 
-SUPER EASY SETUP WITH A VIRTUAL MACHINE: follow [this guide](https://github.com/AI-Core/Getting-Started/blob/master/Setting%20up%20a%20Virtual%20Machine%20(VM).md) to set up a virtual machine. Definitely do this if you use windows.
-
-If you want to set up your environment without a virtual machine, the follow the steps below.
-
 It covers:
 - Getting started with your terminal (command line interface (CLI))
 - Setting up your python package manager (your package manager that allows you to use useful python code that others have written)
@@ -79,3 +75,8 @@ Check out [this](https://www.youtube.com/watch?v=jZ952vChhuI) video to understan
 - [basic data science](https://github.com/AI-core/basic-data-science/blob/master/README.md)
 - [using git and github](https://github.com/life-efficient/Academy-of-AI/blob/master/Git%20and%20GitHub.ipynb)
 - [using the command line interface](https://github.com/life-efficient/Academy-of-AI/blob/master/theCLI.ipynb)
+
+### If that didn't work
+SUPER EASY SETUP WITH A VIRTUAL MACHINE: follow [this guide](https://github.com/AI-Core/Getting-Started/blob/master/Setting%20up%20a%20Virtual%20Machine%20(VM).md) to set up a virtual machine. Definitely do this if you use windows.
+
+If you want to set up your environment without a virtual machine
