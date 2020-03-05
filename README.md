@@ -25,14 +25,14 @@ You should move on once you can successfully run `import torch` in a jupyter not
 ## 1. Using the terminal
 The terminal lets you interact with your operating system. You can type in commands to make your computer do pretty much anything. It's not designed to be pretty,  it has no graphical user interface (GUI). It will run a language called bash, which I introduce [here](https://github.com/life-efficient/Academy-of-AI/blob/master/theCLI.ipynb). We will use it in the following steps.
 
-### Linux
+### Linux 
 Open the terminal by searching for terminal or by **pressing CTRL+ALT+T** (learn this)
 
 ### Mac
 Search for terminal and open it
 
 ### Windows
-Stop and follow [this guide](https://github.com/AI-Core/Getting-Started/blob/master/Setting%20up%20a%20Virtual%20Machine%20(VM).md) to set up a virtual machine, which will run Linux, then return here.
+Download Anaconda from [here](https://www.anaconda.com/distribution/#download-section)
 
 ## 2. Setting up your package manager
 
